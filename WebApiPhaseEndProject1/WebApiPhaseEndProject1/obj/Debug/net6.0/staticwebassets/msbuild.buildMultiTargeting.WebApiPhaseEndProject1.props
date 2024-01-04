@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApiPhaseEndProject1.props" />
+</Project>
